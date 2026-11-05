@@ -2,7 +2,7 @@
 
 A full-stack MERN app with two completely separate experiences: **Hotel Managers** run their property from a dashboard, **Guests** browse, book, review and get in touch.
 
-**Live URL:** _add your deployed URL here_
+**Live URL:** https://staybook-etpmsydc1-sreehari25062005-cloud.vercel.app/
 
 ## Test credentials
 | Role    | Email                  | Password     |
